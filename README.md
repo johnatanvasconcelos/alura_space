@@ -1,0 +1,4 @@
+Este é um projeto da formação "Django: crie aplicações em Python" da alura no qual estou aprendendo este framework incrível para o desenvolvimento web.
+Todo o código base de html, css e JS já veio pronto e estamos implementando código python utilizando o Django para desenvolvê-lo mais ainda e para entender os conceitos dentro da utilização desse framework.
+
+Ainda está em andamento, mas nesse atual estágio, pude entender os principais conceitos de boas práticas em Django e como funcionam os templates, bem como a organização estrutural dos arquivos e pastas do projeto, como por exemplo or arquivos de 'settings.py', 'urls,py', 'views.py', 'apps.py' e etc. Além disso, aprofundei mais no conceito dos ambientes virtuais com a 'venv' e o arquivo de texto 'requirements.txt' e também sobre rodar a aplicação em um servidor local com o 'manage.py'
